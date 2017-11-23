@@ -1,6 +1,6 @@
 @extends('layouts.admin')
 
-@section('title', 'Create New Post')
+@section('title', 'Create New Role')
 
 @push('stylesheet')
 <link href='https://cdnjs.cloudflare.com/ajax/libs/froala-editor/2.7.1/css/froala_editor.min.css' rel='stylesheet' type='text/css' />
